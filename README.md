@@ -19,7 +19,7 @@ Content popularity
 Commercial success
 
 …and translate those insights into actionable recommendations for content strategy.
-
+---
 🔷 Dataset Overview
 
 Source: Amazon Prime Movies & TV Shows
@@ -37,7 +37,7 @@ Shows: 1,355
 Key Features Used:
 
 IMDb Score, IMDb Votes, TMDB Score, TMDB Popularity, Genres, Runtime, Actors, Countries, Release Year
-
+---
 🔷 Methodology
 
 Data cleaning, transformation, and preprocessing using Pandas & NumPy
@@ -61,7 +61,7 @@ Bivariate
 Multivariate
 
 Created 20+ business-driven visualizations using Matplotlib & Seaborn
-
+---
 🔷 Key Insights (This Is the Gold)
 📌 Content Performance
 
@@ -106,7 +106,7 @@ Star power remains a measurable performance lever
 IMDb & TMDB scores show moderate positive correlation
 
 Popularity ≠ quality → both must be balanced for profitability
-
+---
 🔷 Business Impact & Recommendations
 
 ✔ Focus production on 90–120 min runtime
@@ -114,7 +114,7 @@ Popularity ≠ quality → both must be balanced for profitability
 ✔ Combine rating metrics + popularity signals for green-lighting content
 ✔ Leverage regional strengths (US scale, India growth, Europe quality)
 ✔ Avoid over-producing low-ROI genres despite high volume
-
+---
 🔷 Tech Stack
 
 Python
@@ -123,4 +123,17 @@ Pandas, NumPy
 
 Matplotlib, Seaborn
 
-Jupyter Notebook (Deployment-ready, single-run execution)
+Google Colab (Deployment-ready, single-run execution)
+---
+Open the notebook in Google Colab
+
+Install required libraries (if not pre-installed)
+
+Run cells sequentially to reproduce the analysis
+
+Explore visualizations and insights section for conclusions
+---
+👤 About Me
+
+Aspiring Data Analyst / Data Scientist transitioning into the corporate analytics domain.
+Strong focus on problem-solving, data storytelling, and business impact, with hands-on experience in real-world datasets and analytical projects.

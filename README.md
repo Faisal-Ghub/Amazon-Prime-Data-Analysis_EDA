@@ -6,6 +6,7 @@ Exploratory Data Analysis on Amazon Prime Movies & TV Shows
 
 In a hypercompetitive OTT ecosystem, where content supply far exceeds demand, only a small fraction of titles achieve high ratings, popularity, and sustained audience engagement. Identifying the factors that differentiate high-performing content from low-performing content is critical for optimizing production decisions, maximizing ROI, and improving consumer satisfaction.
 ---
+
 🔷 Business Objective
 
 To identify data-driven patterns across genres, runtime, actors, countries, and release timelines that influence:
@@ -18,7 +19,8 @@ Content popularity
 
 Commercial success
 
-…and translate those insights into actionable recommendations for content strategy.
+Conusmer Behaviour
+
 ---
 🔷 Dataset Overview
 
